@@ -298,7 +298,7 @@
 .footer_two-columns{
   min-height: 250px;
   width: 90%;
-  display: flex; 
+  display: flex;
   justify-content: space-between;
 }
 .footer__column_copyright {
