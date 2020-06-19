@@ -107,11 +107,9 @@
 .two-columns__main-text{
   width:80%;
   min-width: 784px;
-  
-  position: absolute; 
+  position: absolute;
   right: 0px;
   top: 0px;
-  
 }
  .two-columns__paragraph{
    line-height: 34px;
@@ -302,7 +300,6 @@
   width: 90%;
   display: flex; 
   justify-content: space-between;
-  flex-direction: row;
 }
 .footer__column_copyright {
   flex-basis: 711px;
