@@ -198,7 +198,7 @@
 .table-heading__margin{
   margin:0;
 }
-.feinman{
+.feynman{
   justify-content: center;
   width: 100%;
   min-height: 790px;
@@ -208,14 +208,14 @@
   background-position: bottom left;
   position: relative;
 }
-.feinman-title{
+.feynman-title{
  text-align: center;
  line-height: 1.15;
  font-size: 120px;
  font-weight: bold;
  width: 648px;
 }
-.feinman-subtitle{
+.feynman-subtitle{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -224,7 +224,7 @@
   margin-top: 70px;
   width: max-content;
 }
-.feinman-link{
+.feynman-link{
   color: #000;
   line-height: 51px;
   font-size: 36px;
@@ -233,10 +233,10 @@
   right: 0;
   top: 50%;
 }
-.feinman-section__padding{
+.feynman-section__padding{
   padding-top: 100px;
 }
-.feinman-title__margin{
+.feynman-title__margin{
   margin: 0 auto;
 }
 .kaufman{
