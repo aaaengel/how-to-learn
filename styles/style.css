@@ -112,7 +112,7 @@
   margin: 0;
   margin-bottom: 30px;
 }
- .two-columns__paragraph_span{
+ .two-columns__span-accent{
   margin-bottom: 30px;
   line-height: 34px;
   font-size: 24px;
@@ -153,7 +153,6 @@
 .table__cell{
   width: 250px;
   align-items: stretch;
-  min-height: 140px;
   margin-top: 60px;
 }
 
@@ -234,7 +233,6 @@
 }
 .table__cell_theme_dark{
   width: 200px;
-  min-height: 115px;
   align-items: stretch;
   margin: 0;
   margin-top: 80px;
@@ -276,7 +274,7 @@
   display: flex;
   justify-content: space-between;
 }
-.footer__content_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   justify-content: space-between;
@@ -312,7 +310,7 @@
   color: white;
   text-decoration: none;
 }
-.footer__column-content_social{
+.footer__column_content_social{
  display: flex;
  flex-direction: column;
 }
