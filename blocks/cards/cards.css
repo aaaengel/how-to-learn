@@ -8,4 +8,6 @@
     margin: auto;
     flex-wrap: wrap;
     flex: start;
+    list-style-type: none;
+    padding: 0;
 }

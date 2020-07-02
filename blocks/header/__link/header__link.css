@@ -3,6 +3,8 @@
     text-decoration:none;
     display:inline-block;
     line-height: 1;
+    transition:opacity .5s;
+    opacity: 1;
   }
   .header__link:hover{
      transition: opacity .5s ease;
