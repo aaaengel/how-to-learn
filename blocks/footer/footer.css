@@ -6,10 +6,10 @@
 @import url(./__column/footer__column.css);
 @import url(./__social-icon/footer__social-icon.css);
 .footer{
-    display: flex;
-    background-color: #1f1f1f;
-    align-items: center;
-    justify-content: center;
-    padding-top: 60px;
-    padding-bottom: 40px;
-  }
+  display: flex;
+  background-color: #1f1f1f;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}

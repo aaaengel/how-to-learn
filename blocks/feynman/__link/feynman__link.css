@@ -1,16 +1,16 @@
 .feynman__link{
-    color: #000;
-    line-height: 51px;
-    font-size: 36px;
-    text-decoration: none;
-    position: absolute;
-    right: 48px;
-    top: 50%;
-    display: inline-block;
-    opacity: 1;
-    transition: opacity .5s ease;
-  }
+  color: #000;
+  line-height: 51px;
+  font-size: 36px;
+  text-decoration: none;
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  display: inline-block;
+  opacity: 1;
+  transition: opacity .5s ease;
+}
   .feynman__link:hover{
-    opacity: .5;
-    transition: opacity .5s ease;
-  }
+  opacity: .5;
+  transition: opacity .5s ease;
+}

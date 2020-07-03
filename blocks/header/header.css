@@ -4,13 +4,13 @@
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
 .header {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    display: flex;
-    align-items: center;
-    background-color: #f2f2f2;
-    overflow: hidden;
-  }
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}

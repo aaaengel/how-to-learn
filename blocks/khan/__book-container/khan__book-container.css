@@ -3,4 +3,5 @@
     margin-top: 68px;
     position: relative;
     display: flex;
+    overflow: hidden;
 }
